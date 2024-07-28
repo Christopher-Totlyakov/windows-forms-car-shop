@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Курсова работа на Кристофър Тотляков/1.0.0": {
+        "runtime": {
+          "Курсова работа на Кристофър Тотляков.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Курсова работа на Кристофър Тотляков/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

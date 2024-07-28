@@ -1,0 +1,51 @@
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.exe
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.deps.json
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.runtimeconfig.json
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.dll
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.pdb
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова_работа_на_Кристофър_Тотляков.Form1.resources
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова_работа_на_Кристофър_Тотляков.Properties.Resources.resources
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.AssemblyInfo.cs
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.dll
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\refint\Курсова работа на Кристофър Тотляков.dll
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.pdb
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.genruntimeconfig.cache
+C:\Users\User\Desktop\Курсова работа на Кристофър Тотляков\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\ref\Курсова работа на Кристофър Тотляков.dll
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.exe
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.deps.json
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.runtimeconfig.json
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.dll
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.pdb
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова_работа_на_Кристофър_Тотляков.Form1.resources
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова_работа_на_Кристофър_Тотляков.Properties.Resources.resources
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.csproj.GenerateResource.cache
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.AssemblyInfo.cs
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.dll
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\refint\Курсова работа на Кристофър Тотляков.dll
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.pdb
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.genruntimeconfig.cache
+C:\Users\User\Desktop\124339\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\ref\Курсова работа на Кристофър Тотляков.dll
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.exe
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.deps.json
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.runtimeconfig.json
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.dll
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\bin\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.pdb
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова_работа_на_Кристофър_Тотляков.Form1.resources
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова_работа_на_Кристофър_Тотляков.Properties.Resources.resources
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.AssemblyInfo.cs
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.dll
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\refint\Курсова работа на Кристофър Тотляков.dll
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.pdb
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\Курсова работа на Кристофър Тотляков.genruntimeconfig.cache
+C:\Users\User\Desktop\Windows Forms Car shop\Курсова работа на Кристофър Тотляков\obj\Debug\net6.0-windows\ref\Курсова работа на Кристофър Тотляков.dll

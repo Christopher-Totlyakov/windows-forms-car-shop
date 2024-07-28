@@ -1,0 +1,9 @@
+B1234AB Toyota Corolla 2018 120
+A4567BK Honda Civic 2019 110
+PPМ7890PT Ford Focus 2017 100
+C3456BP Volkswagen Golf 2016 115
+P3434AB Toyota Corolla 2018 120
+P4888BK Honda Civic 2019 110
+CCМ7990PT Ford Focus 2017 100
+A03333HC Chevrolet Cruze 2020 130
+TX1156BP Volkswagen Golf 2016 110
