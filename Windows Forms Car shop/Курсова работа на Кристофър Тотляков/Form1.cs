@@ -144,7 +144,7 @@ namespace Курсова_работа_на_Кристофър_Тотляков
 
         private void buttonSave_Click(object sender, EventArgs e)
         {
-            FileStream fileStream = new FileStream("C:\\Users\\User\\Desktop\\Windows Forms Car shop\\data.txt", FileMode.Truncate, FileAccess.Write);
+            FileStream fileStream = new FileStream(@"../../../../data.txt", FileMode.Truncate, FileAccess.Write);
             StreamWriter fileData = new StreamWriter(fileStream);
 
             List<string> data = new List<string>();
@@ -183,7 +183,7 @@ namespace Курсова_работа_на_Кристофър_Тотляков
             loadedDataButton.Visible = false;
             dataGridView1.Visible = true;
             buttonSave.Visible = true;
-            StreamReader fileData = new StreamReader("C:\\Users\\User\\Desktop\\Windows Forms Car shop\\data.txt");
+            StreamReader fileData = new StreamReader(@"../../../../data.txt");
             string dataLine = fileData.ReadLine();
             int n = 0;
             while (dataLine != null)
@@ -292,7 +292,7 @@ namespace Курсова_работа_на_Кристофър_Тотляков
             }
             if (carListBox.Items.Count == 0)
             {
-                MessageBox.Show("Не е наличен такъв автомобил.", "Внимание!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("No such vehicle available.", "Attention!", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 return;
             }
             carListBox.Visible = true;
@@ -395,7 +395,7 @@ namespace Курсова_работа_на_Кристофър_Тотляков
             if (horsepowerlistBox.Items.Count == 0)
             {
                 horsepowerlistBox.Visible = false;
-                MessageBox.Show("Не е наличен такъв автомобил.", "Внимание!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("No such vehicle available.", "Attention!", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 return;
             }
             horsepowerlistBox.Visible = true;
